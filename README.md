@@ -32,7 +32,7 @@
 The project uses modern web technologies, such as:
 
 **Frontend (Client):**
-- JavaScript / HTML / CSS
+- JavaScript / HTML / css
 - React or similar SPA framework *(assuming from file structure)*  
 - WebSockets for real-time communication
 
